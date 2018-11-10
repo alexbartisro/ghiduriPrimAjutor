@@ -1,6 +1,7 @@
 package ro.bartis.ghiduriPrimAjutor
 
 import android.content.Context
+import android.graphics.Color
 
 public fun loadJsonFromAsset(filename: String, context: Context): String? {
     var json: String? = null
@@ -19,3 +20,5 @@ public fun loadJsonFromAsset(filename: String, context: Context): String? {
 
     return json
 }
+
+fun String.toColor(): Int = Color.parseColor(this)

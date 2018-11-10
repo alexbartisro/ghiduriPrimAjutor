@@ -33,6 +33,7 @@ package ro.bartis.ghiduriPrimAjutor.MainModule.Activities
 
 import android.content.Context
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
@@ -54,6 +55,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        val view = this.window.decorView
+        view.setBackgroundColor(Color.BLACK)
 
         progressBar = findViewById(R.id.guide_list_progressBar)
         hideProgressBar()

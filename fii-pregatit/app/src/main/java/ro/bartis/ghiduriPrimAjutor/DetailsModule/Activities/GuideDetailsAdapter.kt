@@ -10,8 +10,11 @@ import android.widget.TextView
 import ro.bartis.ghiduriPrimAjutor.DetailsModule.Entity.Guide
 import ro.bartis.ghiduriPrimAjutor.DetailsModule.Entity.Step
 import ro.bartis.ghiduriPrimAjutor.R
+import ro.bartis.ghiduriPrimAjutor.toColor
 
 class GuideDetailsAdapter(private val guide: Guide) : RecyclerView.Adapter<GuideDetailsAdapter.MyViewHolder>() {
+    val COLOR_GRAY = "#808080".toColor()
+
     override fun setHasStableIds(hasStableIds: Boolean) {
         setHasStableIds(true)
     }
@@ -29,6 +32,7 @@ class GuideDetailsAdapter(private val guide: Guide) : RecyclerView.Adapter<Guide
         view.guideLinearLayout.removeAllViews()
 
         val textView = TextView(view?.guideLinearLayout.context)
+        textView.setTextColor(COLOR_GRAY)
 
         if (index < guide.texts.size) {
             textView.text = guide.texts[index]
@@ -49,6 +53,7 @@ class GuideDetailsAdapter(private val guide: Guide) : RecyclerView.Adapter<Guide
 
                 stepTextView.text = stepNumber + ". " + step.title
                 stepTextView.gravity = Gravity.FILL_HORIZONTAL
+                stepTextView.setTextColor(COLOR_GRAY)
 
                 view.guideLinearLayout.addView(stepTextView)
             }
