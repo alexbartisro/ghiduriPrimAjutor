@@ -1,0 +1,14 @@
+{
+  "Guides": [
+    {
+    "Id:": "0",
+    "Text": "Stop cardio-respirator",
+    "Url": "stopcardio.json"
+  },
+//    {
+//      "Id:": "1",
+//      "Text": "Pierderea Cunostintei",
+//      "Url": "pierderecunostinta.json"
+//    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "texts": [
+    "Stopul cardio-respirator poate apărea oricând, oriunde și mai ales la oricine. Cu fiecare minut de la instalarea stopului cardio-respirator, dacă nu se intervine cu măsuri de prim-ajutor, șansele de supraviețuire ale victimei scad cu aproximativ 10%.",
+    "Șansele la viață ale victimei cresc cu aproximativ 50-70% dacă manevrele de resuscitare și defibrilare automată sunt realizate în primele 3-5 minute de la instalarea stopului. Pentru a putea ajuta o victimă care a suferit un stop cardio-respirator, trebuie să urmați următorii pași:"
+  ],
+  "sections": [{
+    "title": "SIGURANȚA SALVATORULUI ȘI A VICTIMEI",
+    "steps": [{
+      "title": "Asigurați-vă că dumneavoastră sunteți în siguranță înainte de a interveni (atenție la câini, fire electrice căzute)."
+    },
+      {
+        "title": "Asigurați-vă că victima este în siguranță."
+      }
+    ]
+  },
+    {
+      "title": "STABILIREA NIVELULUI DE CONȘTIENȚĂ",
+      "steps": [{
+        "title": "Apropiați-vă de victimă și fără să îl atingeți, întrebați-l dacă se simte bine."
+      },
+        {
+          "title": "Dacă nu răspunde, apucați-l și scuturați-l ușor de umeri, întrebați-l din nou dacă se simte bine."
+        }
+      ]
+    },
+    {
+      "title": "STRIGĂ DUPĂ AJUTOR",
+      "steps": [{
+        "title": "Chemați pe cineva să vină după dumneavoastră."
+      },
+        {
+          "title": "Dacă va fi nevoie, acesta va suna la 112 și va merge după defibrilatorul automat, dacă aveți cunoștință că în zonă există un astfel de aparat."
+        }
+      ]
+    },
+    {
+      "title": "DESCHIDEȚI CĂILE AERIENE SUPERIOARE",
+      "steps": [{
+        "title": "Așezați palma pe fruntea victimei."
+      },
+        {
+          "title": "Așezați pe bărbia victimei (partea osoasă)."
+        },
+        {
+          "title": "Concomitent, dați capul pe spate și ridicați bărbia victimei (hiperextensia capului cu ridicarea bărbiei)."
+        },
+        {
+          "title": "Verificați cavitatea bucală."
+        }
+      ]
+    },
+    {
+      "title": "VERIFICAREA RESPIRAȚIEI",
+      "steps": [{
+        "title": "Mențineți căile aeriene deschise."
+      },
+        {
+          "title": "Așezați-vă cu urechea și obrazul deasupra gurii și nasului victimei."
+        },
+        {
+          "title": "Ochii dumneavoastră vor privi toracele victimei."
+        },
+        {
+          "title": "Concomitent, veți observa dacă victima respiră maxim 10 secunde."
+        }
+      ]
+    },
+    {
+      "title": "112",
+      "steps": [{
+        "title": "Dacă victima nu respiră, veți ruga persoana care vă asistă să sune la 112."
+      },
+        {
+          "title": "Dacă aveți cunoștință că în apropiere se găsește un defibrilator, trimiteți după el."
+        }
+      ]
+    },
+    {
+      "title": "MASAJ CARDIAC (30 compresiuni toracice externe)",
+      "steps": [{
+        "title": "Asigurați-vă că victima este așezată pe un plan dur."
+      },
+        {
+          "title": "Expuneți toracele victimei."
+        },
+        {
+          "title": "Împărțiți sternul victimei în două jumătăți egale."
+        },
+        {
+          "title": "Așezați podul palmei dominante în jumătatea inferioară a sternului."
+        },
+        {
+          "title": "Așezați cealaltă mână pe stern."
+        },
+        {
+          "title": "Coatele trebuie să fie întinse, iar linia umerilor salvatorilor să fie paralelă cu linia sternului victimei."
+        },
+        {
+          "title": "Apăsați aproximativ 5-6 cm pe sternul victimei și numărați astfel: și 1 și 2…. până la 30."
+        }
+      ]
+    },
+    {
+      "title": "VENTILAȚII SALVATOARE (2 ventilații salvatoare)",
+      "steps": [{
+        "title": "Deschideți căile aeriene."
+      },
+        {
+          "title": "Pensați nasul victimei cu două degete."
+        },
+        {
+          "title": "Așezați gura dumneavoastră etanș pe gura victimei și insuflați ușor aer până observați cu coada ochiului că se ridică toracele."
+        },
+        {
+          "title": "După prima ventilație, ridicați-vă, oxigenați-vă, după care efectuați a doua ventilație."
+        }
+      ]
+    },
+    {
+      "title": "OPRIREA RESUSCITĂRII CARDIO-PULMONARE",
+      "steps": [{
+        "title": "Pacientul dă semne de viață (mișcă, vomită, deschide ochii, respiră)."
+      },
+        {
+          "title": "Ajunge o echipă medicală sau paramedicală de urgență."
+        },
+        {
+          "title": "Vă epuizați."
+        }
+      ]
+    }
+  ],
+  "video": "https://www.youtube.com/embed/9IPqhJDryIs?feature=oembed"
+}
