@@ -1,0 +1,65 @@
+{
+  "texts": [
+    "Când ești copil, totul ți se pare o joacă, atunci când mănânci sau te joci. Din nefericire, se pot întâmpla accidente. Iată ce trebuie să știți despre cum puteți ajuta un copil care se îneacă cu diferite lucruri și este conștient."
+  ],
+  "sections": [{
+    "title": "ÎNCURAJAȚI VICTIMA SĂ TUȘEASCĂ",
+    "steps": [{
+      "title": "Apropiați-vă de victimă."
+    },
+      {
+        "title": "Încurajați victima să tușească."
+      },
+      {
+        "title": "Supravegheați-o în permanență."
+      },
+      {
+        "title": "Dacă victima nu își revine și obstrucția devine severă, aplicați manevrele de dezobstrucție."
+      },
+      {
+        "title": "Anunțați 112."
+      }
+    ]
+  },
+    {
+      "title": "CINCI LOVITURI INTERSCAPULARE (între omoplați)",
+      "steps": [{
+        "title": "Așezați-vă în spatele victimei."
+      },
+        {
+          "title": "Așezați o mână pe pieptul acesteia. Cu cealaltă mână loviți victima între omoplați de cinci ori."
+        },
+        {
+          "title": "După fiecare lovitură verificați dacă obiectul a ieșit."
+        }
+      ]
+    },
+    {
+      "title": "CINCI COMPRESIUNI ABDOMINALE",
+      "steps": [{
+        "title": "Dacă cele cinci lovituri interscapulare nu au avut succes, aplicați cinci compresiuni abdominale (manevra Heimlich)."
+      },
+        {
+          "title": "Compresia abdominală la copii mici se va realiza cu o singură mână."
+        },
+        {
+          "title": "După fiecare compresiune abdominală, verificați dacă obiectul a ieșit."
+        }
+      ]
+    },
+    {
+      "title": "ALTERNAȚI CINCI LOVITURI INTERSCAPULARE CU CINCI COMPRESIUNI ABDOMINALE",
+      "steps": [{
+        "title": "Dacă manevra Heimlich nu a avut succes, reluați aplicarea celor cinci lovituri interscapulare."
+      },
+        {
+          "title": "Manevrele de dezobstrucție se vor realiza până când obiectul a ieșit."
+        },
+        {
+          "title": "Dacă pacientul devine inconștient, începeți resuscitarea cardio-pulmonară."
+        }
+      ]
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=M6_Ux5WJlAM"
+}

@@ -1,0 +1,107 @@
+{
+  "texts": [
+    "Pacientul care este inconștient, dar respiră, prezintă risc de obstrucție a căilor aeriene superioare cu propria limbă sau secreții/lichide din vărsătură dacă stă pe spate. În aceste condiții, victima inconștientă care respiră și nu este suspectă de o traumă va fi așezată în poziția laterală de siguranță.",
+    "Pentru a ajunge la așezarea victimei în poziția laterală de siguranță trebuie parcurși următorii pași:"
+  ],
+  "sections": [
+    {
+      "title": "SIGURANȚA SALVATORULUI ȘI A VICTIMEI",
+      "steps": [
+        {
+          "title": "Asigurați-vă că dumneavoastră sunteți în siguranță înainte de a interveni (atenție la câini, fire electrice căzute)."
+        },
+        {
+          "title": "Asigurați-vă că victima este în siguranță."
+        }
+      ]
+    },
+    {
+      "title": "STABILIREA NIVELULUI DE CONȘTIENȚĂ",
+      "steps": [
+        {
+          "title": "Apropiați-vă de victimă și fără să îl atingeți, întrebați-l dacă se simte bine."
+        },
+        {
+          "title": "Dacă nu răspunde, apucați-l și scuturați-l ușor de umeri, întrebați-l din nou dacă se simte bine."
+        }
+      ]
+    },
+    {
+      "title": "STRIGĂ DUPĂ AJUTOR",
+      "steps": [
+        {
+          "title": "Chemați pe cineva să vină după dumneavoastră."
+        },
+        {
+          "title": "Dacă va fi nevoie, acesta va suna la 112 și va merge după defibrilatorul automat, dacă aveți cunoștință că în zonă există un astfel de aparat."
+        }
+      ]
+    },
+    {
+      "title": "DESCHIDEȚI CĂILE AERIENE SUPERIOARE",
+      "steps": [
+        {
+          "title": "Așezați palma pe fruntea victimei."
+        },
+        {
+          "title": "Așezați pe bărbia victimei (partea osoasă)."
+        },
+        {
+          "title": "Concomitent, dați capul pe spate și ridicați bărbia victimei (hiperextensia capului cu ridicarea bărbiei)."
+        },
+        {
+          "title": "Verificați cavitatea bucală."
+        }
+      ]
+    },
+    {
+      "title": "VERIFICAREA RESPIRAȚIEI",
+      "steps": [
+        {
+          "title": "Mențineți căile aeriene deschise."
+        },
+        {
+          "title": "Așezați-vă cu urechea și obrazul deasupra gurii și nasului victimei."
+        },
+        {
+          "title": "Ochii dumneavoastră vor privi toracele victimei."
+        },
+        {
+          "title": "Concomitent, veți observa dacă victima respiră maxim 10 secunde."
+        }
+      ]
+    },
+    {
+      "title": "112",
+      "steps": [
+        {
+          "title": "Dacă victima nu respiră, veți ruga persoana care vă asistă să sune la 112."
+        },
+        {
+          "title": "Dacă aveți cunoștință că în apropiere se găsește un defibrilator, trimiteți după el."
+        }
+      ]
+    },
+    {
+      "title": "POZIȚIA LATERALĂ DE SIGURANȚĂ A VICTIMEI VA FI REALIZATĂ ASTFEL:",
+      "steps": [
+        {
+          "title": "Așezați brațul cel mai apropiat al victimei dinspre dumneavoastră în unghi drept față de corp cu antebrațul îndoit în sus."
+        },
+        {
+          "title": "Treceți celălalt braț al victimei peste torace și așezați dosul palmei pe obraz. Mențineți palma victimei cu palma dumneavoastră și apoi ridicați genunchiul victimei opus dumneavoastră până când talpa are contact ferm cu solul."
+        },
+        {
+          "title": "Deschideți căile aeriene superioare ale victimei."
+        },
+        {
+          "title": "Reevaluați respirația victimei la două minute."
+        },
+        {
+          "title": "La 15-30 de minute, dacă nu ajunge ajutorul medical specializat, așezați victima în poziție laterală de siguranță pe partea opus."
+        }
+      ]
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=N42ZcGDy_pE"
+}

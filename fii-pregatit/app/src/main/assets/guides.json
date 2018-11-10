@@ -5,10 +5,15 @@
     "Text": "Stop cardio-respirator",
     "Url": "stopcardio.json"
   },
-//    {
-//      "Id:": "1",
-//      "Text": "Pierderea Cunostintei",
-//      "Url": "pierderecunostinta.json"
-//    }
+    {
+      "Id:": "1",
+      "Text": "Pierderea conștienței",
+      "Url": "pierderecunostinta.json"
+    },
+    {
+      "Id:": "2",
+      "Text": "Obstrucția cailor aeriene la copii",
+      "Url": "obstructieCaiAerieneCopii.json"
+    }
   ]
 }
