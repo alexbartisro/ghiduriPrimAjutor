@@ -20,6 +20,10 @@ class DetailActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         setContentView(R.layout.activity_details)
+    }
+
+    override fun onResume() {
+        super.onResume()
 
         setupUI()
         MainActivity.hideProgressBar()

@@ -1,5 +1,7 @@
 package ro.bartis.ghiduriPrimAjutor.MainModule.Activities
 
+import android.os.Handler
+import android.os.Looper
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
@@ -21,7 +23,11 @@ class GuideListAdapter(private val guideListItems: ArrayList<GuideListItem>) : R
     override fun onBindViewHolder(view: MyViewHolder, index: Int) {
         view?.guideName.text = guideListItems[index].title
         view?.itemView.setOnClickListener {
-            MainActivity.showProgressBar()
+
+            Handler(Looper.getMainLooper()).post {
+                MainActivity.showProgressBar()
+            }
+
             MainActivity.intentToDetail(view?.itemView.context, guideListItems[index].url, guideListItems[index].title)
         }
     }
