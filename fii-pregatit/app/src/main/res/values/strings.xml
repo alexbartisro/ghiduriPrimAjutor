@@ -1,4 +1,4 @@
 <resources>
-  <string name="app_name">Ghiduri de Prim Ajutor</string>
-  <string name="thumbnail">thumbnail</string>
+    <string name="app_name">Ghiduri de Prim Ajutor</string>
+    <string name="action_play">Ghid Video</string>
 </resources>

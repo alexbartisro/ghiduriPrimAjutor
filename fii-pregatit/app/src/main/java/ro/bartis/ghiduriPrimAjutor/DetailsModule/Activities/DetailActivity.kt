@@ -11,7 +11,7 @@ import ro.bartis.ghiduriPrimAjutor.MainModule.Activities.MainActivity
 import ro.bartis.ghiduriPrimAjutor.R
 import ro.bartis.ghiduriPrimAjutor.loadJsonFromAsset
 
-class DetailActivity : AppCompatActivity() {
+class DetailActivity : AppCompatActivity(), GuideDetailsAdapterDelegate {
     private lateinit var recylerView: RecyclerView
     private lateinit var viewAdapter: RecyclerView.Adapter <*>
     private lateinit var viewManager: RecyclerView.LayoutManager
@@ -39,10 +39,14 @@ class DetailActivity : AppCompatActivity() {
         setTitle(guideTitle)
 
         viewManager = LinearLayoutManager(this)
-        viewAdapter = GuideDetailsAdapter(guide!!)
+        viewAdapter = GuideDetailsAdapter(guide!!, this)
 
         recylerView = findViewById(R.id.guide_details_recycler_view)
         recylerView.adapter = viewAdapter
         recylerView.layoutManager = viewManager
+    }
+
+    override fun playVideo(urlString: String) {
+        
     }
 }
