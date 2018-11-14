@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name="ro.bartis.ghiduriPrimAjutor.DetailsModule.Activities.DetailActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout" />
     </application>
 
 </manifest>

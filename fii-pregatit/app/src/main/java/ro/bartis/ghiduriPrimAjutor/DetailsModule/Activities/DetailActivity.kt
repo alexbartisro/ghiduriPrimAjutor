@@ -1,5 +1,7 @@
 package ro.bartis.ghiduriPrimAjutor.DetailsModule.Activities
 
+import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.LinearLayoutManager
@@ -10,6 +12,7 @@ import ro.bartis.ghiduriPrimAjutor.INTENT_GUIDE_URL
 import ro.bartis.ghiduriPrimAjutor.MainModule.Activities.MainActivity
 import ro.bartis.ghiduriPrimAjutor.R
 import ro.bartis.ghiduriPrimAjutor.loadJsonFromAsset
+
 
 class DetailActivity : AppCompatActivity(), GuideDetailsAdapterDelegate {
     private lateinit var recylerView: RecyclerView
@@ -47,6 +50,8 @@ class DetailActivity : AppCompatActivity(), GuideDetailsAdapterDelegate {
     }
 
     override fun playVideo(urlString: String) {
-        
+        val uris = Uri.parse(urlString)
+        val intents = Intent(Intent.ACTION_VIEW, uris)
+        this.startActivity(intents)
     }
 }
