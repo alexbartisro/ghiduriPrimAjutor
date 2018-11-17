@@ -1,0 +1,39 @@
+{
+  "texts": [
+    "Reacțiile alergice apar atunci când corpul întâlnește o substanță chimică, naturală sau sintetică, care determină un răspuns exagerat din partea sistemului dumneavoastră imun.\n\nReacțiile alergice pot lua multe forme, cum ar fi:\nerupția cutanată, eritem, mâncărime, respirație șuierătoare, umflarea (edemațierea) structurilor din gât, umflarea limbii, leșin.\n\nReacțiile alergice pot fi foarte ușoare sau foarte severe. Din nefericire, faptul că ai avut deja o reacție alergică te predispune și la alte reacții alergice în viitor.\n\nCauze frecvente de reacție alergică sunt:\nalunele, veninul insectelor, căpșunile, ouăle, dar există alți numeroși alergeni."
+  ],
+  "sections": [
+    {
+      "title": "Îngrijirea la domiciliu:",
+      "steps": [
+        {
+          "title": "Păstrează legătura cu medicul de familie/specialist;"
+        },
+        {
+          "title": "Este important să iei medicamentele așa cum ți-au fost prescrise;"
+        },
+        {
+          "title": "Dacă ai identificat substanța care a determinat reacția alergică, încearcă să o evitați în viitor."
+        }
+      ]
+    },
+    {
+      "title": "Sună la 112 sau mergi în Serviciul de Urgență dacă există o agravare a simptomelor sau dacă:",
+      "steps": [
+        {
+          "title": "Apare lipsa de aer, respirația dificilă, șuierătoare;"
+        },
+        {
+          "title": "Apare leșinul;"
+        },
+        {
+          "title": "Apar vărsături repetate;"
+        },
+        {
+          "title": "Avi senzația de strângere/sufocare la nivelul gâtului sau limba începe să se umfle."
+        }
+      ]
+    }
+  ],
+  "video": ""
+}

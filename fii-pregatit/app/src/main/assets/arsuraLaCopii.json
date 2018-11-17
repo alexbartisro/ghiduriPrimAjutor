@@ -1,0 +1,30 @@
+{
+  "texts": [
+    "Peste 60% dintre arsurile prin lichid fierbinte sunt la copii. Arsurile sunt extrem de periculoase din mai multe motive:\n    - curiozitate, imitare\n    - înţelegere limitată a pericolului\n    - abilitate limitată de a reacţiona la contactul cu lichidele fierbinți\n    - piele subţire înseamnă o arsură în profunzime",
+    "Locurile unde se petrec cele mai multe accidente sunt bucataria și baia. În bucătărie, în timpul mutării, mâncarea sau băutura fierbinte poate fi vărsată, cel mai adesea de către copii. În baie, există imposibilitatea de a se îndepărta de apa fierbinte.",
+    "Protejarea copiilor se poate face prin:\n1. schimbări în amenajarea casei\n2. supravegherea copiilor\n3. marcarea şi explicarea unei “zone de siguranţă a copilului”\n4. îndepărtarea feţelor de masă care atârnă\n5. folosirea “cănilor de călătorie” care nu se varsă\n6. nu ţineţi tigăile cu mânerele spre faţa cuptorului\n7. protejaţi aparaterele electrice de gătit şi cablurile acestora\nnu ţineţi niciodată un copil în braţe în timp ce preparaţi sau serviţi mâncare fierbinte, în timp ce beţi o băutură fierbinte\n8. nu ţineţi băutura şi mâncarea fierbinte la îndemâna copiilor"
+  ],
+  "sections": [
+    {
+      "title": "Primul ajutor în tratarea arsurilor:",
+      "steps": [
+        {
+          "title": "îndepărtaţi victima de sursa arsurii"
+        },
+        {
+          "title": "îndepărtaţi toate hainele, scutecele, pantofii care au intrat în contact cu apa fierbinte"
+        },
+        {
+          "title": "răcoriţi zona arsă cu apă rece"
+        },
+        {
+          "title": "acoperiţi zona arsă cu ceva uscat și curat"
+        },
+        {
+          "title": "sunaţi la 112"
+        }
+      ]
+    }
+  ],
+  "video": "https://www.youtube.com/watch?v=y_9JCFu2arI"
+}

@@ -1,0 +1,39 @@
+{
+  "texts": [
+    "Mușcăturile de animal sunt potențial periculoase în funcție de specia care a cauzat mușcătura sau de locul în care ai fost mușcat.\n\nDacă ați mers într-un Serviciul de Urgență, medicul care te-a consultat poate decide că că puteți pleca acasă.\nDar este foarte important să urmărești cu atenție leziunea, deoarece, chiar și în cazul unui tratament adecvat, există riscul apariției unei infecții.\nLa fel, în funcție de cauza mușcăturii, poți fi la risc pentru rabie (turbare) sau tetanos. De aceea este important să citești cu atenție instrucțiunile de mai jos."
+  ],
+  "sections": [
+    {
+      "title": "Îngrijirea la domiciliu:",
+      "steps": [
+        {
+          "title": "Păstrează legătura cu medicul specialist în boli infecțioase. Acest lucru este important mai ales dacă s-a stabilit că ai un risc pentru apariția rabiei;"
+        },
+        {
+          "title": "Ia medicamentele antibiotice exact așa cum ți-au fost prescrise;"
+        },
+        {
+          "title": "Păstrează rana uscată și curată;"
+        },
+        {
+          "title": "Menține extremitatea afectată în poziție ridicată pe cât posibil."
+        }
+      ]
+    },
+    {
+      "title": "Sună medicul de familie/specialist sau revino în Serviciul de Urgență dacă simptomele se agravează sau dacă:",
+      "steps": [
+        {
+          "title": "Temperatură peste 37.9 ºC;"
+        },
+        {
+          "title": "Zona din jurul mușcăturii devine roșie, edemațiată (umflată), mult mai dureroasă și există o dungă roșie ascendentă deasupra mușcăturii;"
+        },
+        {
+          "title": "Dezvolți amorțeli în jurul zonei mușcate."
+        }
+      ]
+    }
+  ],
+  "video": ""
+}

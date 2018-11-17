@@ -1,0 +1,45 @@
+{
+  "texts": [
+    "Medicul te-a diagnosticat cu o intoxicație alcoolică. Alcoolul se poate găsi în bere, vin, lichior, țuică etc.\nNU este nici o diferență între tipurile de alcool, ci numai în cantitatea de alcool conținută de fiecare.\n\nConsumul de alcool este frecvent. Din nefericire, dependența este și ea destul de frecventă.\nSimptomele dependenței de alcool includ:\n1. Neputința de a limita cantitatea de alcool consumată;\n2. Incapacitatea de a stopa/reduce consumul de alcool în ciuda dorinței de a face acest lucru;\n3. Petrecerea unei perioade importante de timp obținând, consumând alcool sau recuperându-se după consumul de alcool;\n4. Dorință puternică, impulsivă de a consuma alcool;\n5. Eșec în îndeplinirea îndatoririlor profesionale, familiale sau școlare datorită consumului de alcool.\n6. Continuarea consumului de alcool în ciuda faptului că recunoaștem problemele fizice, sociale sau interpersonale cauzate de alcool;\n7. Reducerea activităților sociale sau profesionale;\n8. Consumul de alcool la volan;\n9. Experimentarea unor simptome de sevraj (atunci când ați oprit consumul de alcool), așa cum ar fi: greață, transpirații, convulsii sau tremurături și continuarea consumului de alcool pentru a evita aceste simptome."
+  ],
+  "sections": [
+    {
+      "title": "Îngrijirea la domiciliu:",
+      "steps": [
+        {
+          "title": "Păstrează legătura cu medicul de familie/specialist;"
+        },
+        {
+          "title": "Odihnește-te într-o cameră cu puțină lumină și zgomot, până te simți mai bine;"
+        },
+        {
+          "title": "Evită consumul de Paracetamol pentru orice motiv în următoarele 48h;"
+        },
+        {
+          "title": "Solicită ajutor pentru controlul consumului de alcool la Asociația Alcoolicii Anonimi/medicul psihiatru."
+        }
+      ]
+    },
+    {
+      "title": "Sună la 112 sau revino imediat în Serviciul de Urgență dacă:",
+      "steps": [
+        {
+          "title": "Ai o criză convulsivă;"
+        },
+        {
+          "title": "Temperatură peste 37.9 ºC;"
+        },
+        {
+          "title": "Ai vărsături severe sau vărsături cu sânge;"
+        },
+        {
+          "title": "Scaunul devine negru ca păcura;"
+        },
+        {
+          "title": "Te simțiți foarte slăbit."
+        }
+      ]
+    }
+  ],
+  "video": ""
+}

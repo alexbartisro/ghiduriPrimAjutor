@@ -1,0 +1,69 @@
+{
+  "texts": [
+    "În cazul unui traumatism cranio-cerebral este necesară prezentarea la un Serviciu de Urgență.\nO leziune la nivelul creierului poate determina:\nsomnolență, cefalee, amețeli sau vărsături, unii oameni pot dezvolta și probleme de memorie.\n\nMedicul care v-a examinat poate decide că leziune craniană poate fi urmărită fără probleme la domiciliu.\nAceste simptome pot dura de la câteva zile la câteva săptămâni.\nÎn traumatismele craniocerebrale moderate sau severe sunt efectuate investigații radiologice: CT sau RMN, pentru a evalua dacă există sau nu o hemoragie la nivelul creierului. CT este rapid, dar nivelul de radiații este ridicat. RMN nu utilizează radiații, dar este foarte lent și adesea nu este disponibil în urgență."
+  ],
+  "sections": [
+    {
+      "title": "Îngrijirea la domiciliu:",
+      "steps": [
+        {
+          "title": "În următoarele 24 de ore, pacientul trebuie urmărit cu atenție de către o persoană de încredere;"
+        },
+        {
+          "title": "Este bine să lași pacientul să doarmă. Totuși este important să îl trezești la fiecare 3h pentru a verifica vorbirea, capacitatea lui de a recunoaște persoanele sau mediul în care se află și intensitatea durerii de cap;"
+        },
+        {
+          "title": "Administrează paracetamol pentru a combate durerea de cap, conform recomandărilor medicului;"
+        },
+        {
+          "title": "Ibuprofenul, naproxenul și aspirina pot determina sângerare și echimoze/hematoame. Nu le folosi pe acestea;"
+        },
+        {
+          "title": "Dietă conține cantități mai mici de alimente;"
+        },
+        {
+          "title": "Sfătuiește-te cu medicul de familie pentru reluarea graduală a activității."
+        }
+      ]
+    },
+    {
+      "title": "Sună la 112 sau revino imediat în Serviciul de Urgență dacă există o agravare sau dacă apar una din următoarele:",
+      "steps": [
+        {
+          "title": "Schimbări în comportament;"
+        },
+        {
+          "title": "Somnolență persistentă sau pacientul nu poate fi trezit cu ușurință;"
+        },
+        {
+          "title": "Apariția confuziei (nu își cunoaște numele sau nu știe unde se află);"
+        },
+        {
+          "title": "Vorbire fără sens;"
+        },
+        {
+          "title": "Agravarea amețelii sau pacientul are un mers nesigur sau nu poate merge;"
+        },
+        {
+          "title": "Vărsături mai mult de 3 ori la mai mult de 8 ore de la traumatism;"
+        },
+        {
+          "title": "Vedere încețoșată sau vedere dublă;"
+        },
+        {
+          "title": "Sângerare sau scurgerea unui lichid apos din urechi sau nas;"
+        },
+        {
+          "title": "Convulsii, leșin, mișcări necontrolate ale unei părți a corpului;"
+        },
+        {
+          "title": "Agravarea durerii de cap;"
+        },
+        {
+          "title": "Slăbiciune sau amorțeli ale feței, brațelor, picioarelor sau corpului;"
+        }
+      ]
+    }
+  ],
+  "video": ""
+}

@@ -14,6 +14,36 @@
       "Id:": "2",
       "Text": "Obstrucția cailor aeriene la copii",
       "Url": "obstructieCaiAerieneCopii.json"
+    },
+    {
+      "Id:": "3",
+      "Text": "Arsura la copii",
+      "Url": "arsuraLaCopii.json"
+    },
+    {
+      "Id:": "4",
+      "Text": "Traumatismul cranio-cerebral la adulți",
+      "Url": "traumatismCranioAdulti.json"
+    },
+    {
+      "Id:": "5",
+      "Text": "Traumatismul cranio-cerebral la copii",
+      "Url": "traumatismCranioCopii.json"
+    },
+    {
+      "Id:": "6",
+      "Text": "Intoxicație alcoolică",
+      "Url": "intoxicatieAlcoolica.json"
+    },
+    {
+      "Id:": "7",
+      "Text": "Mușcături de animal",
+      "Url": "muscaturiAnimal.json"
+    },
+    {
+      "Id:": "8",
+      "Text": "Reacția alergică",
+      "Url": "reactiaAlergica.json"
     }
   ]
 }

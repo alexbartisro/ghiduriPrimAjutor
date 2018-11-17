@@ -1,0 +1,75 @@
+{
+  "texts": [
+    "O comoție cerebrală poate determina: somnolență, durere de cap, amețeală sau vărsături, unele persoane pot dezvolta tulburări de memorie.\nDe aceea, este necesară prezentarea într-un Serviciu de Urgență.\nÎn cazuri mai severe sunt efectuate investigații radiologice: CT sau RMN pentru a căuta sângerări la nivelul creierului. CT este mai rapid, dar are un nivel de radiații crescut, ceea ce poate leza creierul în dezvoltare al copiilor. RMN nu implică radiații, dar este mult mai lent, necesită un nivel crescut de sedare pentru copii și nu întotdeauna este disponibil în urgență."
+  ],
+  "sections": [
+    {
+      "title": "Îngrijirea la domiciliu:",
+      "steps": [
+        {
+          "title": "Păstrează legătura cu medicul de familie/pediatru"
+        },
+        {
+          "title": "În primele 24 de ore o persoană de încredere trebuie să supravegheze cu atenție copilul"
+        },
+        {
+          "title": "Poți lăsa copilul să doarmă, dar trebuie trezit la fiecare 3 ore pentru a verifica dacă este conștient, vorbirea, dacă recunoaște anturajul, dacă prezintă durere de cap"
+        },
+        {
+          "title": "Se poate administra Paracetamol pentru durerea de cap, în conformitate cu recomandările medicului"
+        },
+        {
+          "title": "A NU se administra: Ibuprofen, Naproxen sau Aspirină, pentru că acestea pot determina creșterea sângerării și echimoze"
+        },
+        {
+          "title": "Repaus fizic și psihic: fără telefon, tabletă, TV, jocuri video, muzică sau teme școlare. Va sta în casă"
+        },
+        {
+          "title": "Dietă ușoară: cantități mici de alimente a fi indicate la fiecare masă"
+        },
+        {
+          "title": "Consultă medicul de familie pentru recomandări de activitate. Reluarea activităților se va face treptat"
+        }
+      ]
+    },
+    {
+      "title": "Sună medicul de familie/pediatru sau întoarce-te imediat în Serviciul de Urgență dacă starea copilului se agravează sau dacă:",
+      "steps": [
+        {
+          "title": "Apare o schimbare în comportament sau orice comportament neobișnuit"
+        },
+        {
+          "title": "Copilul este neobișnuit de somnolent sau nu poate fi trezit cu ușurință"
+        },
+        {
+          "title": "Copilul este confuz (nu știe numele său, unde se află)"
+        },
+        {
+          "title": "Este incoerent în vorbire"
+        },
+        {
+          "title": "Se constată agravarea amețelii sau mers dificil"
+        },
+        {
+          "title": "Prezintă mai mult de 3 vărsături sau vărsături care apar la mai mult de 8h de la traumă"
+        },
+        {
+          "title": "Apar tulburări de vedere sau diplopia (vedere dublă)"
+        },
+        {
+          "title": "Apare sângerare sau scurgerea unui lichid apos din urechi sau nas"
+        },
+        {
+          "title": "Apar convulsii, pierderea cunoștinței sau mișcări necontrolate ale unor anumite părți ale corpului"
+        },
+        {
+          "title": "Se agravarează durerea de cap"
+        },
+        {
+          "title": "Copilul prezintă amorțeli/furnicături ale feței, brațelor sau picioarelor"
+        }
+      ]
+    }
+  ],
+  "video": ""
+}

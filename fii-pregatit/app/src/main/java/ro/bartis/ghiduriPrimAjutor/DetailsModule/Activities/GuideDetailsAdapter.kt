@@ -63,7 +63,7 @@ class GuideDetailsAdapter(private val guide: Guide, private val delegate: GuideD
 
                 view.guideLinearLayout.addView(stepTextView)
             }
-        } else {
+        } else if (!guide.video.isBlank()) {
             val button = Button(view?.guideLinearLayout.context)
             button.run {
                 button.setText(R.string.action_play)

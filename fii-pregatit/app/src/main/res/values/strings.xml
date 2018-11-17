@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Ghiduri de Prim Ajutor</string>
+    <string name="app_name_drawer">Prim Ajutor</string>
     <string name="action_play">Ghid Video</string>
 </resources>
